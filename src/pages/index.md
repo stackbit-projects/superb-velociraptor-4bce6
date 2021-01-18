@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: It's How You Build Electronics Fast.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Trace is building hardware, software, and turnkey services specifically
+      designed to speed-up your electronics development process.
     actions:
       - label: Learn More
         url: /features
