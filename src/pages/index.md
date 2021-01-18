@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: It's How You Build Electronics Fast.
     content: >
-      Trace is building hardware, software, and turnkey services specifically
-      designed to speed-up your electronics development process.
+      Hardware, software, and turnkey services specifically designed to speed-up
+      your electronics development process.
     actions:
       - label: Learn More
         url: /features
